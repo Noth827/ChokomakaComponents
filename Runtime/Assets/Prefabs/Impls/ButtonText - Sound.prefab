@@ -93,7 +93,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7662817609617840149, guid: e507f1874e2206e45a4339db8ab6476b, type: 3}
       propertyPath: m_Name
-      value: ButtonText - SoundAnimation
+      value: ButtonText - Sound
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e507f1874e2206e45a4339db8ab6476b, type: 3}
@@ -107,20 +107,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7662817609617840149, guid: e507f1874e2206e45a4339db8ab6476b, type: 3}
   m_PrefabInstance: {fileID: 297552860653529544}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1272094093980310899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7959781131464126941}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3356358ede3c4df78518b527fc5d6638, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scale: 1.1
-  animationDuration: 0.15
 --- !u!114 &6306132453341357534
 MonoBehaviour:
   m_ObjectHideFlags: 0

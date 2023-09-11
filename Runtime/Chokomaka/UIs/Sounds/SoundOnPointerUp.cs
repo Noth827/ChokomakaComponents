@@ -4,16 +4,20 @@ using UnityEngine.EventSystems;
 
 namespace Chokomaka.UIs.Sounds
 {
-    public class SoundWhenPointerDown : MonoBehaviour, IPointerDownHandler, ISoundUI
+    public class SoundOnPointerUp : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, ISoundUI
     {
         [SerializeField] private AudioClip sfx;
         [SerializeField] private float volumeMultiplier = 1f;
         [SerializeField] private float fadeInDuration;
 
 
-        public void OnPointerDown(PointerEventData eventData)
+        public void OnPointerUp(PointerEventData eventData)
         {
             LucidAudio.PlaySE(sfx, fadeInDuration).SetVolume(volumeMultiplier);
+        }
+
+        public void OnPointerDown(PointerEventData eventData)
+        {
         }
     }
 }
