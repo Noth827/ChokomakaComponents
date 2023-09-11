@@ -19,7 +19,7 @@ namespace Chokomaka.UIs.Examples
                 () =>
                 {
                     Debug.Log("End");
-                    Destroy(popYesNo.gameObject);
+                    Destroy(init.gameObject);
                 },
                 true);
         }
