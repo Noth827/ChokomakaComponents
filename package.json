@@ -1,0 +1,10 @@
+{
+    "name": "com.qemelly.chokomaka_components",
+    "displayName": "ChokomakaComponents",
+    "version": "0.1.0",
+    "unity": "2021.3",
+    "description": "A package which adds various versatile components",
+    "author": {
+      "name": "Qemelly"
+    }
+  }
