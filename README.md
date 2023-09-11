@@ -7,7 +7,7 @@ UI等の細かいComponentを作ってはコンパイル、作ってはコンパ
 
 ## Usage
 
-※制作中なので、現時点での利用は推奨しません。すぐに使用が変更される場合があります。
+※制作中なので、現時点での利用は推奨しません。すぐに仕様が変更される場合があります。
 
 Window → Package Manager → Add Package from git URL
 
