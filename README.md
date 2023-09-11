@@ -9,12 +9,6 @@ UI等の細かいComponentを作ってはコンパイル、作ってはコンパ
 
 ※制作中なので、現時点での利用は推奨しません。すぐに仕様が変更される場合があります。
 
-Window → Package Manager → Add Package from git URL
-
-以下を入力してinstallしてください。
-
-https://github.com/Noth827/ChokomakaComponents.git
-
 ## Prefab
 
 Runtime/Assets/Prefabsにてよく使うUIのPrefabを用意しております。
