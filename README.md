@@ -15,5 +15,5 @@ https://github.com/Noth827/ChokomakaComponents.git
 
 ## Prefab
 
-Assets/Prefabsにてよく使うUIのPrefabを用意しております。
+Runtime/Assets/Prefabsにてよく使うUIのPrefabを用意しております。
 Componentの見た目等を調整すると、自動で/ImplsのPrefabにも反映されます（/ImplsのPrefabはすべてPrefab Variantです）。
